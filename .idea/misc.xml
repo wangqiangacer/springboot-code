@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-cloud-user-service/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-cloud-user-consumer/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-cloud-eureka/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-cloud-consumer-ribbon/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-cloud-consumer-fegin-hystrix/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-cloud-consumer-fegin/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-cache-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-security/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-read-yml/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-mybatis-xml/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-log/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-mybatis-annotation/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-jwt/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-filter-demo/pom.xml" />
+      </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/filter-demo/pom.xml" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/classes" />
+  </component>
+</project>

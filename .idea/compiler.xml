@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="spring-boot-mybatis-xml" />
+        <module name="spring-boot-log" />
+        <module name="spring-cloud-eureka" />
+        <module name="spring-boot-encry" />
+        <module name="sendmail" />
+        <module name="qrcode" />
+        <module name="spring-cloud-consumer-fegin-hystrix" />
+        <module name="spring-cloud-consumer-ribbon" />
+        <module name="spring-cache-demo" />
+        <module name="spring-boot-read-yml" />
+        <module name="spring-boot-mybatis-annotation" />
+        <module name="spring-boot-security" />
+        <module name="spring-cloud-user-consumer" />
+        <module name="spring-boot-study-base" />
+        <module name="spring-cloud-user-service" />
+        <module name="spring-boot-mybatis-generator" />
+        <module name="demo (1)" />
+        <module name="spring-boot-kaptcha" />
+        <module name="exception-demo" />
+        <module name="spring-boot-websocket" />
+        <module name="springboot-filter-demo" />
+        <module name="spring-cloud-consumer-fegin" />
+        <module name="jpa-demo" />
+        <module name="spring-boot-jwt" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="demo (1)" target="1.8" />
+      <module name="exception-demo" target="1.8" />
+      <module name="filter-demo" target="1.8" />
+      <module name="jpa-demo" target="1.8" />
+      <module name="qrcode" target="1.8" />
+      <module name="sendmail" target="1.8" />
+      <module name="spring-boot-encry" target="1.8" />
+      <module name="spring-boot-jwt" target="1.8" />
+      <module name="spring-boot-kaptcha" target="1.8" />
+      <module name="spring-boot-log" target="1.8" />
+      <module name="spring-boot-mybatis-annotation" target="1.8" />
+      <module name="spring-boot-mybatis-generator" target="1.8" />
+      <module name="spring-boot-mybatis-xml" target="1.8" />
+      <module name="spring-boot-read-yml" target="1.8" />
+      <module name="spring-boot-security" target="1.8" />
+      <module name="spring-boot-study" target="1.5" />
+      <module name="spring-boot-study-base" target="1.8" />
+      <module name="spring-boot-websocket" target="1.8" />
+      <module name="spring-cache-demo" target="1.8" />
+      <module name="spring-cloud-consumer-fegin" target="1.8" />
+      <module name="spring-cloud-consumer-fegin-hystrix" target="1.8" />
+      <module name="spring-cloud-consumer-ribbon" target="1.8" />
+      <module name="spring-cloud-eureka" target="1.8" />
+      <module name="spring-cloud-user-consumer" target="1.8" />
+      <module name="spring-cloud-user-service" target="1.8" />
+      <module name="springboot-filter-demo" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="demo (1)" options="-parameters" />
+      <module name="exception-demo" options="-parameters" />
+      <module name="filter-demo" options="-parameters" />
+      <module name="jpa-demo" options="-parameters" />
+      <module name="qrcode" options="-parameters" />
+      <module name="sendmail" options="-parameters" />
+      <module name="spring-boot-encry" options="-parameters" />
+      <module name="spring-boot-jwt" options="-parameters" />
+      <module name="spring-boot-kaptcha" options="-parameters" />
+      <module name="spring-boot-log" options="-parameters" />
+      <module name="spring-boot-mybatis-annotation" options="-parameters" />
+      <module name="spring-boot-mybatis-generator" options="-parameters" />
+      <module name="spring-boot-mybatis-xml" options="-parameters" />
+      <module name="spring-boot-read-yml" options="-parameters" />
+      <module name="spring-boot-security" options="-parameters" />
+      <module name="spring-boot-study-base" options="-parameters" />
+      <module name="spring-boot-websocket" options="-parameters" />
+      <module name="spring-cache-demo" options="-parameters" />
+      <module name="spring-cloud-consumer-fegin" options="-parameters" />
+      <module name="spring-cloud-consumer-fegin-hystrix" options="-parameters" />
+      <module name="spring-cloud-consumer-ribbon" options="-parameters" />
+      <module name="spring-cloud-eureka" options="-parameters" />
+      <module name="spring-cloud-user-consumer" options="-parameters" />
+      <module name="spring-cloud-user-service" options="-parameters" />
+      <module name="springboot-filter-demo" options="-parameters" />
+    </option>
+  </component>
+</project>

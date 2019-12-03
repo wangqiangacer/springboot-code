@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/activemq-demo/demo (1).iml" filepath="$PROJECT_DIR$/activemq-demo/demo (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/exception-demo/exception-demo.iml" filepath="$PROJECT_DIR$/exception-demo/exception-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jpa-demo/jpa-demo.iml" filepath="$PROJECT_DIR$/jpa-demo/jpa-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/qrcode/qrcode.iml" filepath="$PROJECT_DIR$/qrcode/qrcode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sendmail/sendmail.iml" filepath="$PROJECT_DIR$/sendmail/sendmail.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-encry/spring-boot-encry.iml" filepath="$PROJECT_DIR$/spring-boot-encry/spring-boot-encry.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-jwt/spring-boot-jwt.iml" filepath="$PROJECT_DIR$/spring-boot-jwt/spring-boot-jwt.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-kaptcha/spring-boot-kaptcha.iml" filepath="$PROJECT_DIR$/spring-boot-kaptcha/spring-boot-kaptcha.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-log/spring-boot-log.iml" filepath="$PROJECT_DIR$/spring-boot-log/spring-boot-log.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-mybatis-annotation/spring-boot-mybatis-annotation.iml" filepath="$PROJECT_DIR$/spring-boot-mybatis-annotation/spring-boot-mybatis-annotation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-mybatis-generator/spring-boot-mybatis-generator.iml" filepath="$PROJECT_DIR$/spring-boot-mybatis-generator/spring-boot-mybatis-generator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-mybatis-xml/spring-boot-mybatis-xml.iml" filepath="$PROJECT_DIR$/spring-boot-mybatis-xml/spring-boot-mybatis-xml.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-read-yml/spring-boot-read-yml.iml" filepath="$PROJECT_DIR$/spring-boot-read-yml/spring-boot-read-yml.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-security/spring-boot-security.iml" filepath="$PROJECT_DIR$/spring-boot-security/spring-boot-security.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-study.iml" filepath="$PROJECT_DIR$/spring-boot-study.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-study-base/spring-boot-study-base.iml" filepath="$PROJECT_DIR$/spring-boot-study-base/spring-boot-study-base.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-websocket/spring-boot-websocket.iml" filepath="$PROJECT_DIR$/spring-boot-websocket/spring-boot-websocket.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cache-demo/spring-cache-demo.iml" filepath="$PROJECT_DIR$/spring-cache-demo/spring-cache-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-consumer-fegin/spring-cloud-consumer-fegin.iml" filepath="$PROJECT_DIR$/spring-cloud-consumer-fegin/spring-cloud-consumer-fegin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-consumer-fegin-hystrix/spring-cloud-consumer-fegin-hystrix.iml" filepath="$PROJECT_DIR$/spring-cloud-consumer-fegin-hystrix/spring-cloud-consumer-fegin-hystrix.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-consumer-ribbon/spring-cloud-consumer-ribbon.iml" filepath="$PROJECT_DIR$/spring-cloud-consumer-ribbon/spring-cloud-consumer-ribbon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-eureka/spring-cloud-eureka.iml" filepath="$PROJECT_DIR$/spring-cloud-eureka/spring-cloud-eureka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-user-consumer/spring-cloud-user-consumer.iml" filepath="$PROJECT_DIR$/spring-cloud-user-consumer/spring-cloud-user-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-user-service/spring-cloud-user-service.iml" filepath="$PROJECT_DIR$/spring-cloud-user-service/spring-cloud-user-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-filter-demo/springboot-filter-demo.iml" filepath="$PROJECT_DIR$/springboot-filter-demo/springboot-filter-demo.iml" />
+    </modules>
+  </component>
+</project>
